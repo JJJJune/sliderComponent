@@ -1,8 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import Slider from '/Users/zheng/myPractice/slider/src/components/slider/index.js'
 import registerServiceWorker from './registerServiceWorker';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(
+<Slider />,
+ document.getElementById('root'));
 registerServiceWorker();
