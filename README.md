@@ -1,1 +1,1 @@
-The sample：
+### Slider Component
